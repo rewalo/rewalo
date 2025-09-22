@@ -6,15 +6,11 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 - **Age:** 22  
 - Passionate about **coding**, **cybersecurity**, **hardware**, and **datamining**  
 - Always curious about how things work: from low-level code to circuits  
 - Strive to **improve my skills** and grow as a developer 
-
----
 
 ## 🛠️ Tech Stack
 
@@ -42,8 +38,6 @@
   <img src="https://img.shields.io/badge/PC%20Building-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="PC Building Badge" draggable="false" />
   <img src="https://img.shields.io/badge/Electronics-FFDD00?style=for-the-badge&logoColor=black" alt="Electronics Badge" draggable="false" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
