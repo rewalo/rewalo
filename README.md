@@ -6,13 +6,13 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-- **Age:** 22  
-- Passionate about **coding**, **cybersecurity**, **hardware**, and **datamining**  
-- Always curious about how things work: from low-level code to circuits  
+## About Me
+- **Age:** 23
+- Passionate about **coding**, **cybersecurity**, and **hardware** 
+- Always curious about how things work, from low-level code to circuits  
 - Strive to **improve my skills** and grow as a developer 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Proficient In
 <p>
