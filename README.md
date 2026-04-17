@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
-- **Age:** [REDACTED]
+- **Age:** 19
 - Passionate about **coding**, **cybersecurity**, and **hardware** 
 - Always curious about how things work, from low-level code to circuits  
 - Strive to **improve my skills** and grow as a developer 
