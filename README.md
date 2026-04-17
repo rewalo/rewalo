@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Will 👋</h1>
+<h1 align="center">Hi, I'm [REDACTED] 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
-- **Age:** 23
+- **Age:** [REDACTED]
 - Passionate about **coding**, **cybersecurity**, and **hardware** 
 - Always curious about how things work, from low-level code to circuits  
 - Strive to **improve my skills** and grow as a developer 
