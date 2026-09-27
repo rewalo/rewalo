@@ -39,5 +39,5 @@
   <img src="https://img.shields.io/badge/Electronics-FFDD00?style=for-the-badge&logoColor=black" alt="Electronics Badge" draggable="false" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=rewalo&show_icons=true&theme=tokyonight" alt="Rewalo's GitHub statistics" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rewalo&layout=compact&theme=tokyonight" alt="Rewalo's most used programming languages" height="165"/> </p>
