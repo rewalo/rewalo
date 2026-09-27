@@ -40,7 +40,4 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rewalo&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewalo&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=rewalo&show_icons=true&theme=tokyonight" alt="Rewalo's GitHub statistics" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rewalo&layout=compact&theme=tokyonight" alt="Rewalo's most used programming languages" height="165"/> </p>
